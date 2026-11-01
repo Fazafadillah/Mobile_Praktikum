@@ -21,12 +21,12 @@
 ╔══════════════════════════════════════════════╗
 ║  👾  PLAYER CARD                             ║
 ╠══════════════════════════════════════════════╣
-║  Nama        : [Nama Lengkap Kamu]           ║
-║  NIM         : [NIM Kamu]                    ║
-║  Kelas       : [Kelas / Kelompok Praktikum]  ║
+║  Nama        : Muchamad Faza Fadillah        ║
+║  NIM         : 5520124016                    ║
+║  Kelas       : IF-A 24                       ║
 ║  Mata Kuliah : Praktikum Pemrograman Mobile  ║
-║  Dosen/Asisten : [Nama Dosen / Asisten]      ║
-║  Tahun Ajaran: [20XX/20XX]                   ║
+║  Dosen/Asisten : Shakira & Hasby             ║
+║  Tahun Ajaran: [2026/2027]                   ║
 ╚══════════════════════════════════════════════╝
 ```
 
